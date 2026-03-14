@@ -1,4 +1,4 @@
 
 # CapstoneProject
 
-This is the final project in the Front-End Specialization.
+This is the final project in teh Meta Front-End Specialization.
